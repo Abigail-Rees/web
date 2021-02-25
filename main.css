@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    font-size: 180%;
+    font-family: verdana;
+    text-align: right;
+}
+
+h2 {
+    color: white;
+    font-size: 90%;
+    font-family: verdana;
+    text-align: left;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: green; 
+}
