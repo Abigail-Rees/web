@@ -1,59 +1,22 @@
-<! -- HW #5
-Team Presidential Waterfall 2.0 - Rania Zaki , Abigail Rees-->
-<!DOCTYPE HTML>
-<!-- THE DOCTYPE tells the browser what type of webpage to render, the doctype used in this website is HTML5 which is the most recent HTML. -->
-<html lang = "en-GB">
-<head>
-	<title> Botany </title> <!-- This is the name of the page. -->
-	<link rel= "stylesheet" type="text/css" href="main.css">
-</head>
-<body>
-		<div class="header">
-			<h1>Botany</h1>
-		</div>
-	</header>
-<nav>
- <ul>
-  <li> What is Botany and Why?</li>
-  <li> What are the Parts of a Plant?</li>
-  <li> Recent Botanical Studies </li>
-  <li> Showcasing Team Presidential Waterfall 2.0 </li>
- </ul>
-</nav>
-		<div class="main">
-			<h2>What is Botany and Why?</h2>
-			<p> Most simply stated, Botany is the study of plants. Botany is a branch of biology which is specialized in plant physiology,
-    structure, genetics, ecology, classification, and more. Botany is important for so many reasons, one important reason is growing
-    crops. Botany can ensure that the yeild is large enough. Moreover botany can help with medicines, specific plants hold medicinal value
-    which can later help individuals.
-			<p>
-			</p> <a https://byjus.com/biology/botany/#:~:text=Botany%20is%20important%20in%20the,also%20important%20in%20environment%20protection.">Different Branches of Botany </a>
-			<p>
-		<section>
-		<h2>What are the Parts of a Plant?</h2>
-		<p>  Like most living creatures, plants need a way to reproduce. Some plants only have an ovule, and other plants just have a stamen, and in some cases 
-     plants have both reproductive parts. The stamen has the pollen which when spread to an ovule can help a plant reproduce. In order to attract pollinators
-     plants produce nectar in the nectaries, which can be located in an any part of the plant. Plants also have roots, which have the responsibility of 
-     giving the plant nutrients and water. Plants often have pentals which also contribute to attracting pollinators.<p>
-		</p> <a href= https://www.scienceabc.com/nature/how-do-plants-reproduce.html#:~:text=Plants%20reproduce%20sexually%20through%20the,two%20types%3A%20sexual%20and%20asexual.&amp;text=Asexual%20reproduction%2C%20on%20the%20other,through%20stems%2C%20roots%20and%20leaves. >More information on plant reproduction</a>
-	        <p>
-		<section>
-			<h2>Recent Botanical Studies</h2>
-			<p>  A study has found that plants are late to react to dramatic climate and temperature changes. This has larger implications because out climate is changing rapidly
-    and for us to survive we need plants. It is hard to fix the problem if we won't be able to see the symptoms of plants under climate stress until it's too late. <p>
-			</p> <a href="https://www.earth.com/news/plants-can-hide-the-effects-of-climate-stress-for-years/" > the study</a>
-			<p>
-      <section>
-	      <h2> Showcasing Team Presidential Waterfall</h2>
-	<p> <a href=""> Andrea Nalywajko </a>
-			</p>
-       <p> <a href=""> Rania zaki </a>
-	<p> <a href="https://raniazaki-cell.github.io/web/talk"> Rania Zaki </a>
-			</p>
-       <p> <a href="https://analywajko.github.io/web/talk"> Abigail Rees </a>
-			</p>
-      <section>
-      <div>
- </body>
-</html>
+h1 {
+    color: white;
+    font-size: 160%;
+    font-family: verdana;
+    text-align: right;
+}
 
+/* this will style all h2 elements with color black */
+h2 {
+    color: white;
+    font-size: 80%;
+    font-family: verdana;
+    text-align: right;
+}
+
+p {
+    color: white;
+}
+
+body {
+    background-color: red; 
+}
